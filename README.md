@@ -7,4 +7,5 @@ Código-fonte do curso de Estrutura de Dados. Desenvolvido no Dev-C++, utilizand
 **AULA 03** - Revisão: Ponteiros, Estruturas e Vetores (Sem código fonte)<br>
 **AULA 04** - Matrizes, Listas e Alocação Dinâmica <br> 
 **AULA 05** - Recursão <br> 
-**AULA 06** - Listas Circulares e Duplamente Encadeadas <br> 
+**AULA 06** - Listas Circulares e Duplamente Encadeadas <br>
+**AULA 07** - Filas <br> 
