@@ -9,3 +9,4 @@ Código-fonte do curso de Estrutura de Dados. Desenvolvido no Dev-C++, utilizand
 **AULA 05** - Recursão <br> 
 **AULA 06** - Listas Circulares e Duplamente Encadeadas <br>
 **AULA 07** - Filas <br> 
+**AULA 08** - Pilhas <br> 
