@@ -46,7 +46,7 @@ int main()
 		}
 		else if (opcao == 5)
 		{
-			alunos *p = primeiro;
+			alunos *p = ultimo_elemento();
 			if (p == NULL)
 			{
 				cout << "Nenhum aluno cadastrado." << endl;
@@ -188,7 +188,7 @@ void menu()
 	cout << "2 - LISTAR ALUNOS" << endl;
 	cout << "3 - EXCLUIR ALUNOS" << endl;
 	cout << "4 - TAMANHO DA LISTA" << endl;
-	cout << "5 - PRIMEIRO ELEMENTO" << endl;
+	cout << "5 - ULTIMO ELEMENTO" << endl;
 	cout << "0 - SAIR" << endl;
 	cout << "Digite uma opção: ";
 }
