@@ -1,4 +1,4 @@
-**Estrutura de Dados - Anhanguera**
+# Estrutura de Dados
 
 Código-fonte do curso de Estrutura de Dados. Desenvolvido no Dev-C++, utilizando a linguagem de programação C++.
 
